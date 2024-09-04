@@ -2,4 +2,4 @@
 
 Easy recipes for students.
 
-This website is a odin project step
+This website is an odin project step
